@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Documents\New_SDI_projects\Hamilton_Tevin_CustomClass\Hamilton_Tevin_CustomClass\bin\Debug\Hamilton_Tevin_CustomClass.exe.config
+\\vmware-host\Shared Folders\Documents\New_SDI_projects\Hamilton_Tevin_CustomClass\Hamilton_Tevin_CustomClass\bin\Debug\Hamilton_Tevin_CustomClass.exe
+\\vmware-host\Shared Folders\Documents\New_SDI_projects\Hamilton_Tevin_CustomClass\Hamilton_Tevin_CustomClass\bin\Debug\Hamilton_Tevin_CustomClass.pdb
+\\vmware-host\Shared Folders\Documents\New_SDI_projects\Hamilton_Tevin_CustomClass\Hamilton_Tevin_CustomClass\obj\Debug\Hamilton_Tevin_CustomClass.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\New_SDI_projects\Hamilton_Tevin_CustomClass\Hamilton_Tevin_CustomClass\obj\Debug\Hamilton_Tevin_CustomClass.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\New_SDI_projects\Hamilton_Tevin_CustomClass\Hamilton_Tevin_CustomClass\obj\Debug\Hamilton_Tevin_CustomClass.exe
+\\vmware-host\Shared Folders\Documents\New_SDI_projects\Hamilton_Tevin_CustomClass\Hamilton_Tevin_CustomClass\obj\Debug\Hamilton_Tevin_CustomClass.pdb
